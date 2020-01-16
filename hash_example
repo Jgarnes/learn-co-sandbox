@@ -1,0 +1,12 @@
+english_music_by_city = { 
+  :manchester => [
+    {
+      :band_name => "The Smiths",
+      :memeber_names => ["Morrissey", "Johnny", "Andy", "Mike"]
+    },
+    {
+      :band_name => "Joy Division",
+      :memeber_names => ["Peter", "Stephen", "Bernard", "Ian"]
+    },
+  ]
+}  
